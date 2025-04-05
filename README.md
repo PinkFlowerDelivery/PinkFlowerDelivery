@@ -26,7 +26,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkflowerdelivery&hide_progress=true)
 
-![The_Rust_Programming_Language](https://github.com/user-attachments/assets/d4abf9bc-4960-4feb-9fbb-25b54a8961e1)
+<img src="./Rin_Shima_The_Rust_Programming_Language_3.png" width="750">
 
 
 
